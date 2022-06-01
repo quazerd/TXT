@@ -1,0 +1,17 @@
+skills
+Base QA theory
+Client-server architecture
+HTTP
+JSON, XML
+API testing
+Log processing
+Traffic sniffing
+Dev Tools
+VPN
+Mobile testing
+iOS, Android features
+Bash
+SQL
+Scrum
+Python
+Stress testing
