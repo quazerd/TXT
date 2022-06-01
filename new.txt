@@ -1,0 +1,4 @@
+name Levytskyi Oleh Olehovych
+age 28
+numberOfPets 0
+futureSalary 3000$
